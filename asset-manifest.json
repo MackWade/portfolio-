@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio-mackenzie/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio-mackenzie/static/js/main.f6b64aa6.js",
+    "main.css": "/portfolio-mackenzie/static/css/main.1c64d82a.css",
+    "main.js": "/portfolio-mackenzie/static/js/main.1a2d753d.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio-mackenzie/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/portfolio-mackenzie/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Astrowballoons.jpg": "/portfolio-mackenzie/static/media/Astrowballoons.117bd20c8f8bf504f773.jpg",
+    "static/media/4200_10_02.jpg": "/portfolio-mackenzie/static/media/4200_10_02.2ba9f2abdc411e958cb2.jpg",
+    "static/media/3800_4_06.jpg": "/portfolio-mackenzie/static/media/3800_4_06.2557819ae04059c28a12.jpg",
+    "static/media/MicroBuyEStore.png": "/portfolio-mackenzie/static/media/MicroBuyEStore.2522ef3c170de8e5d0b9.png",
+    "static/media/HealthyWealthy.png": "/portfolio-mackenzie/static/media/HealthyWealthy.f7af609e7d2a67a371b7.png",
+    "static/media/astronaut.png": "/portfolio-mackenzie/static/media/astronaut.d93a101cf17f851a9098.png",
+    "static/media/LibraryProj.png": "/portfolio-mackenzie/static/media/LibraryProj.e6ddf7ba0af749e3323c.png",
     "index.html": "/portfolio-mackenzie/index.html",
-    "main.073c9b0a.css.map": "/portfolio-mackenzie/static/css/main.073c9b0a.css.map",
-    "main.f6b64aa6.js.map": "/portfolio-mackenzie/static/js/main.f6b64aa6.js.map",
+    "main.1c64d82a.css.map": "/portfolio-mackenzie/static/css/main.1c64d82a.css.map",
+    "main.1a2d753d.js.map": "/portfolio-mackenzie/static/js/main.1a2d753d.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio-mackenzie/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f6b64aa6.js"
+    "static/css/main.1c64d82a.css",
+    "static/js/main.1a2d753d.js"
   ]
 }
